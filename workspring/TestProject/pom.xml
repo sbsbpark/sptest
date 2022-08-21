@@ -13,7 +13,7 @@
 	<version>1.0</version>
 	<packaging>jar</packaging>
 	<name>TestProject</name>
-	<description>Demo project for Spring Boot3</description>
+	<description>Demo project for Spring Boot4</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
